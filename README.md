@@ -40,4 +40,4 @@ python scripts/cleaning_script.py data/raw_sales_dataset.xlsx data/cleaned_sales
 
 ## Author
 
-[Your Name] — Data Analytics Intern, ApexPlanet
+Gandepalli chiranjeevi siva rama krishna — Data Analytics Intern, ApexPlanet
